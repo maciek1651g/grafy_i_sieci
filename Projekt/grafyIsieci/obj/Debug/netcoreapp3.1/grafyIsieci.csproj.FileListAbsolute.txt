@@ -1,0 +1,13 @@
+C:\Users\Maciek\source\repos\grafyIsieci\grafyIsieci\obj\Debug\netcoreapp3.1\grafyIsieci.csprojAssemblyReference.cache
+C:\Users\Maciek\source\repos\grafyIsieci\grafyIsieci\obj\Debug\netcoreapp3.1\grafyIsieci.csproj.CoreCompileInputs.cache
+C:\Users\Maciek\source\repos\grafyIsieci\grafyIsieci\obj\Debug\netcoreapp3.1\grafyIsieci.AssemblyInfoInputs.cache
+C:\Users\Maciek\source\repos\grafyIsieci\grafyIsieci\obj\Debug\netcoreapp3.1\grafyIsieci.AssemblyInfo.cs
+C:\Users\Maciek\source\repos\grafyIsieci\grafyIsieci\bin\Debug\netcoreapp3.1\grafyIsieci.exe
+C:\Users\Maciek\source\repos\grafyIsieci\grafyIsieci\bin\Debug\netcoreapp3.1\grafyIsieci.deps.json
+C:\Users\Maciek\source\repos\grafyIsieci\grafyIsieci\bin\Debug\netcoreapp3.1\grafyIsieci.runtimeconfig.json
+C:\Users\Maciek\source\repos\grafyIsieci\grafyIsieci\bin\Debug\netcoreapp3.1\grafyIsieci.runtimeconfig.dev.json
+C:\Users\Maciek\source\repos\grafyIsieci\grafyIsieci\bin\Debug\netcoreapp3.1\grafyIsieci.dll
+C:\Users\Maciek\source\repos\grafyIsieci\grafyIsieci\bin\Debug\netcoreapp3.1\grafyIsieci.pdb
+C:\Users\Maciek\source\repos\grafyIsieci\grafyIsieci\obj\Debug\netcoreapp3.1\grafyIsieci.dll
+C:\Users\Maciek\source\repos\grafyIsieci\grafyIsieci\obj\Debug\netcoreapp3.1\grafyIsieci.pdb
+C:\Users\Maciek\source\repos\grafyIsieci\grafyIsieci\obj\Debug\netcoreapp3.1\grafyIsieci.genruntimeconfig.cache
